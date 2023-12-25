@@ -11,14 +11,16 @@ npm install -D electron
 - ディレクトリ構成
 
 ```
-pro  
+map-for-electron  
  |-node_nodules  
  |-src  
     |-main.js(つくる)  
     |-package.json(つくる)  
     |-index.html(map本体)  
     |-script.js(map本体)  
-    |-stylesheet.css(map本体)    
+    |-stylesheet.css(map本体)
+ |-package.json
+ |-package-lock.json
 ```
 
 - package.json
